@@ -17,6 +17,8 @@ npm i -g geneasy-handlebars
 - [geneasy](https://github.com/geneasy/geneasy) - A command line tool that can easily generate HTML, Markdown documents, etc.
 - [geneasy-yaml](https://github.com/geneasy/geneasy-yaml) - A plugin that enables geneasy to use dafa files in YAML format.
 - [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids
+- [handlebars-helpers](https://github.com/helpers/handlebars-helpers) - More than 130 Handlebars helpers in ~20 categories. Helpers can be used with Assemble, Generate, Verb, Ghost, gulp-handlebars, grunt-handlebars, consolidate, or any node.js/Handlebars project.
+- [template-helpers](https://github.com/jonschlinkert/template-helpers) - Generic JavaScript helpers that can be used with any template engine. Handlebars, Lo-Dash, Underscore, or any engine that supports helper functions.
 
 ## License
 

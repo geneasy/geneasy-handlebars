@@ -53,6 +53,13 @@ describe('geneasy-handlebars', () => {
     expect(result).equals('hello, wonderfulWorld!');
   });
 
+  it('should render template with join helper', async () => {
+    const result = await render("hello, {{join what '-'}}!", {
+      what: ['foo', 'bar']
+    });
+    expect(result).equals('hello, foo-bar!');
+  });
+
   it('register should to be a function', () => {
     expect(register).to.be.a('function');
   });
