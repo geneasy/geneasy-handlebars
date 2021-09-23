@@ -1,6 +1,6 @@
 {
   "name": "geneasy-handlebars",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A plugin that enables geneasy to use the Handlebars templates.",
   "type": "module",
   "exports": "./lib/index.js",
